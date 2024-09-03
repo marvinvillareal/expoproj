@@ -4,3 +4,6 @@
 [submodule "CalendarApp"]
 	path = CalendarApp
 	url = git@github.com:marvinvillareal/CalendarApp.git
+[submodule "todo-js"]
+	path = todo-js
+	url = git@github.com:marvinvillareal/todo-js.git
